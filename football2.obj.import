@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/football2.obj-e995c849ad9d0ea686a997f3dc19ac52.mesh"
+
+[deps]
+
+files=[ "res://.import/football2.obj-e995c849ad9d0ea686a997f3dc19ac52.mesh" ]
+
+source_file="res://football2.obj"
+dest_files=[ "res://.import/football2.obj-e995c849ad9d0ea686a997f3dc19ac52.mesh", "res://.import/football2.obj-e995c849ad9d0ea686a997f3dc19ac52.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
